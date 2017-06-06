@@ -18,15 +18,15 @@ MIPS Assembler and Runtime Simulator ([MARS](http://courses.missouristate.edu/Ke
 
 2. Open desired problem program in MARS.
 
-  <i>File -> Open -> Navigate to problem program -> Open</i>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>File -> Open -> Navigate to problem program -> Open</i>
 
 3. Assemble the program.
 
-  <i>Run -> Assemble</i>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Run -> Assemble</i>
 
 4. Run the program
 
-  <i>Run -> Go</i>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Run -> Go</i>
 
 ----
 
