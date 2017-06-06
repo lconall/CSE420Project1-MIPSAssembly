@@ -13,7 +13,7 @@ MIPS Assembler and Runtime Simulator ([MARS](http://courses.missouristate.edu/Ke
 
 <b><i>Note: MARS 4.5 was used and is stored in the Tools directory of this repository.</i></b>
 
-### Usage
+### Usage:
 1. Open MARS
 
 2. Open desired problem program in MARS.
@@ -57,7 +57,7 @@ You are required to create and use two subroutines for this program shown below 
 Pay attention to the registers used for passing arguments to subroutine, and also the registers
 used for returning the output from a subroutine.
 
-##### Subroutines Required
+#### Subroutines Required
 
 <b><u>Square function</u></b>
 ```c
