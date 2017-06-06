@@ -1,5 +1,5 @@
 # CSE 420 - Computer Architecture
-## Project 1 - MIPS Assembly Language
+### Project 1 - MIPS Assembly Language
 ### Author: Levi Conall <l.conall@asu.edu>
 
 ----
